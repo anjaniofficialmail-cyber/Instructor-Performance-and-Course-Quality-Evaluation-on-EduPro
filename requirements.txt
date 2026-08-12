@@ -2,6 +2,4 @@ streamlit
 pandas<3
 numpy<2.1
 plotly
-statsmodels
-scipy
 openpyxl
