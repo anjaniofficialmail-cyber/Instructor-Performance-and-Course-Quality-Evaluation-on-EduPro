@@ -12,4 +12,4 @@ EduPro lacked a structured way to evaluate instructor quality and course design.
 - Are highly rated instructors associated with higher enrollments?
 
 ## Repository Structure
-## dashboard link:https://edupro-dashboard-final.streamlit.app/
+## dashboard link:https://instructor-performance-and-course.onrender.com/
